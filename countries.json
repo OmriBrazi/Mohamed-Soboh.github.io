@@ -1,0 +1,911 @@
+[
+    {
+        "countryCode": "AF",
+        "storeCode": "ROW",
+        "name": "Afghanistan",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/af.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "AL",
+        "storeCode": "ROE",
+        "name": "Albania",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/al.png",
+        "url": "www.asos.com",
+        "siteId": 26,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "DZ",
+        "storeCode": "ROW",
+        "name": "Algeria",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/dz.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "AR",
+        "storeCode": "ROW",
+        "name": "Argentina",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/ar.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "AU",
+        "storeCode": "AU",
+        "name": "Australia",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/au.png",
+        "url": "www.asos.com/au",
+        "siteId": 9,
+        "defaultLanguage": "en-AU"
+    },
+    {
+        "countryCode": "AT",
+        "storeCode": "DE",
+        "name": "Austria",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/at.png",
+        "url": "www.asos.com/de",
+        "siteId": 4,
+        "defaultLanguage": "de-DE"
+    },
+    {
+        "countryCode": "AZ",
+        "storeCode": "ROE",
+        "name": "Azerbaijan",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/az.png",
+        "url": "www.asos.com",
+        "siteId": 26,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "BH",
+        "storeCode": "ROW",
+        "name": "Bahrain",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/bh.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "BE",
+        "storeCode": "ROE",
+        "name": "Belgium",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/be.png",
+        "url": "www.asos.com",
+        "siteId": 26,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "BO",
+        "storeCode": "ROW",
+        "name": "Bolivia",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/bo.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "BA",
+        "storeCode": "ROE",
+        "name": "Bosnia and Herzegovina",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/ba.png",
+        "url": "www.asos.com",
+        "siteId": 26,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "BR",
+        "storeCode": "ROW",
+        "name": "Brazil",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/br.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "BG",
+        "storeCode": "ROE",
+        "name": "Bulgaria",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/bg.png",
+        "url": "www.asos.com",
+        "siteId": 26,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "CM",
+        "storeCode": "ROW",
+        "name": "Cameroon",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/cm.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "CA",
+        "storeCode": "US",
+        "name": "Canada",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/ca.png",
+        "url": "www.asos.com/us",
+        "siteId": 2,
+        "defaultLanguage": "en-US"
+    },
+    {
+        "countryCode": "CL",
+        "storeCode": "ROW",
+        "name": "Chile",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/cl.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "CN",
+        "storeCode": "ROW",
+        "name": "China",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/cn.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "CO",
+        "storeCode": "ROW",
+        "name": "Colombia",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/co.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "CR",
+        "storeCode": "ROW",
+        "name": "Costa Rica",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/cr.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "HR",
+        "storeCode": "ROE",
+        "name": "Croatia",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/hr.png",
+        "url": "www.asos.com",
+        "siteId": 26,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "CY",
+        "storeCode": "ROE",
+        "name": "Cyprus",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/cy.png",
+        "url": "www.asos.com",
+        "siteId": 26,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "CZ",
+        "storeCode": "ROE",
+        "name": "Czech Republic",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/cz.png",
+        "url": "www.asos.com",
+        "siteId": 26,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "DK",
+        "storeCode": "DK",
+        "name": "Denmark",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/dk.png",
+        "url": "www.asos.com/dk",
+        "siteId": 32,
+        "defaultLanguage": "da-DK"
+    },
+    {
+        "countryCode": "EC",
+        "storeCode": "ROW",
+        "name": "Ecuador",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/ec.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "EG",
+        "storeCode": "ROW",
+        "name": "Egypt",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/eg.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "SV",
+        "storeCode": "ROW",
+        "name": "El Salvador",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/sv.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "ET",
+        "storeCode": "ROW",
+        "name": "Ethiopia",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/et.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "FI",
+        "storeCode": "ROE",
+        "name": "Finland",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/fi.png",
+        "url": "www.asos.com",
+        "siteId": 26,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "FR",
+        "storeCode": "FR",
+        "name": "France",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/fr.png",
+        "url": "www.asos.com/fr",
+        "siteId": 3,
+        "defaultLanguage": "fr-FR"
+    },
+    {
+        "countryCode": "GE",
+        "storeCode": "ROE",
+        "name": "Georgia",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/ge.png",
+        "url": "www.asos.com",
+        "siteId": 26,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "DE",
+        "storeCode": "DE",
+        "name": "Germany",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/de.png",
+        "url": "www.asos.com/de",
+        "siteId": 4,
+        "defaultLanguage": "de-DE"
+    },
+    {
+        "countryCode": "GH",
+        "storeCode": "ROW",
+        "name": "Ghana",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/gh.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "GR",
+        "storeCode": "ROE",
+        "name": "Greece",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/gr.png",
+        "url": "www.asos.com",
+        "siteId": 26,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "GL",
+        "storeCode": "ROE",
+        "name": "Greenland",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/gl.png",
+        "url": "www.asos.com",
+        "siteId": 26,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "HT",
+        "storeCode": "ROW",
+        "name": "Haiti",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/ht.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "HK",
+        "storeCode": "ROW",
+        "name": "Hong Kong",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/hk.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "HU",
+        "storeCode": "ROE",
+        "name": "Hungary",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/hu.png",
+        "url": "www.asos.com",
+        "siteId": 26,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "IS",
+        "storeCode": "ROW",
+        "name": "Iceland",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/is.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "IN",
+        "storeCode": "ROW",
+        "name": "India",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/in.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "ID",
+        "storeCode": "ROW",
+        "name": "Indonesia",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/id.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "IQ",
+        "storeCode": "ROW",
+        "name": "Iraq",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/iq.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "IL",
+        "storeCode": "ROW",
+        "name": "Israel",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/il.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "IT",
+        "storeCode": "IT",
+        "name": "Italy",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/it.png",
+        "url": "www.asos.com/it",
+        "siteId": 7,
+        "defaultLanguage": "it-IT"
+    },
+    {
+        "countryCode": "JM",
+        "storeCode": "ROW",
+        "name": "Jamaica",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/jm.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "JP",
+        "storeCode": "ROW",
+        "name": "Japan",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/jp.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "JO",
+        "storeCode": "ROW",
+        "name": "Jordan",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/jo.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "KZ",
+        "storeCode": "ROE",
+        "name": "Kazakhstan",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/kz.png",
+        "url": "www.asos.com",
+        "siteId": 26,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "KE",
+        "storeCode": "ROW",
+        "name": "Kenya",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/ke.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "KR",
+        "storeCode": "ROW",
+        "name": "Korea, Republic of (South Korea)",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/kr.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "KW",
+        "storeCode": "ROW",
+        "name": "Kuwait",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/kw.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "LB",
+        "storeCode": "ROW",
+        "name": "Lebanon",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/lb.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "MG",
+        "storeCode": "ROW",
+        "name": "Madagascar",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/mg.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "MY",
+        "storeCode": "ROW",
+        "name": "Malaysia",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/my.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "MV",
+        "storeCode": "ROW",
+        "name": "Maldives",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/mv.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "ML",
+        "storeCode": "ROW",
+        "name": "Mali",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/ml.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "MT",
+        "storeCode": "ROE",
+        "name": "Malta",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/mt.png",
+        "url": "www.asos.com",
+        "siteId": 26,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "MX",
+        "storeCode": "US",
+        "name": "Mexico",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/mx.png",
+        "url": "www.asos.com/us",
+        "siteId": 2,
+        "defaultLanguage": "en-US"
+    },
+    {
+        "countryCode": "MC",
+        "storeCode": "FR",
+        "name": "Monaco",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/mc.png",
+        "url": "www.asos.com/fr",
+        "siteId": 3,
+        "defaultLanguage": "fr-FR"
+    },
+    {
+        "countryCode": "ME",
+        "storeCode": "ROE",
+        "name": "Montenegro",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/me.png",
+        "url": "www.asos.com",
+        "siteId": 26,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "MA",
+        "storeCode": "ROW",
+        "name": "Morocco",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/ma.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "MZ",
+        "storeCode": "ROW",
+        "name": "Mozambique",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/mz.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "NP",
+        "storeCode": "ROW",
+        "name": "Nepal",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/np.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "NL",
+        "storeCode": "NL",
+        "name": "Netherlands",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/nl.png",
+        "url": "www.asos.com/nl",
+        "siteId": 30,
+        "defaultLanguage": "nl-NL"
+    },
+    {
+        "countryCode": "NZ",
+        "storeCode": "ROW",
+        "name": "New Zealand",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/nz.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "NG",
+        "storeCode": "ROW",
+        "name": "Nigeria",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/ng.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "NO",
+        "storeCode": "ROE",
+        "name": "Norway",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/no.png",
+        "url": "www.asos.com",
+        "siteId": 26,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "OM",
+        "storeCode": "ROW",
+        "name": "Oman",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/om.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "PK",
+        "storeCode": "ROW",
+        "name": "Pakistan",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/pk.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "PS",
+        "storeCode": "ROW",
+        "name": "Palestine",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/ps.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "PA",
+        "storeCode": "ROW",
+        "name": "Panama",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/pa.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "PY",
+        "storeCode": "ROW",
+        "name": "Paraguay",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/py.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "PE",
+        "storeCode": "ROW",
+        "name": "Peru",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/pe.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "PH",
+        "storeCode": "ROW",
+        "name": "Philippines",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/ph.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "PL",
+        "storeCode": "PL",
+        "name": "Poland",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/pl.png",
+        "url": "www.asos.com/pl",
+        "siteId": 34,
+        "defaultLanguage": "pl-PL"
+    },
+    {
+        "countryCode": "PT",
+        "storeCode": "ROE",
+        "name": "Portugal",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/pt.png",
+        "url": "www.asos.com",
+        "siteId": 26,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "PR",
+        "storeCode": "US",
+        "name": "Puerto Rico",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/pr.png",
+        "url": "www.asos.com/us",
+        "siteId": 2,
+        "defaultLanguage": "en-US"
+    },
+    {
+        "countryCode": "QA",
+        "storeCode": "ROW",
+        "name": "Qatar",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/qa.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "RO",
+        "storeCode": "ROE",
+        "name": "Romania",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/ro.png",
+        "url": "www.asos.com",
+        "siteId": 26,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "RW",
+        "storeCode": "ROW",
+        "name": "Rwanda",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/rw.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "SA",
+        "storeCode": "ROW",
+        "name": "Saudi Arabia",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/sa.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "SN",
+        "storeCode": "ROW",
+        "name": "Senegal",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/sn.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "RS",
+        "storeCode": "ROE",
+        "name": "Serbia",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/rs.png",
+        "url": "www.asos.com",
+        "siteId": 26,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "SG",
+        "storeCode": "ROW",
+        "name": "Singapore",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/sg.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "SK",
+        "storeCode": "ROE",
+        "name": "Slovakia",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/sk.png",
+        "url": "www.asos.com",
+        "siteId": 26,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "SI",
+        "storeCode": "ROE",
+        "name": "Slovenia",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/si.png",
+        "url": "www.asos.com",
+        "siteId": 26,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "ZA",
+        "storeCode": "ROW",
+        "name": "South Africa",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/za.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "ES",
+        "storeCode": "ES",
+        "name": "Spain",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/es.png",
+        "url": "www.asos.com/es",
+        "siteId": 8,
+        "defaultLanguage": "es-ES"
+    },
+    {
+        "countryCode": "SD",
+        "storeCode": "ROW",
+        "name": "Sudan",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/sd.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "SE",
+        "storeCode": "SE",
+        "name": "Sweden",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/se.png",
+        "url": "www.asos.com/se",
+        "siteId": 28,
+        "defaultLanguage": "sv-SE"
+    },
+    {
+        "countryCode": "CH",
+        "storeCode": "ROW",
+        "name": "Switzerland",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/ch.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "TW",
+        "storeCode": "ROW",
+        "name": "Taiwan",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/tw.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "TH",
+        "storeCode": "ROW",
+        "name": "Thailand",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/th.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "TN",
+        "storeCode": "ROW",
+        "name": "Tunisia",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/tn.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "TR",
+        "storeCode": "ROE",
+        "name": "Turkey",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/tr.png",
+        "url": "www.asos.com",
+        "siteId": 26,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "UA",
+        "storeCode": "ROW",
+        "name": "Ukraine",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/ua.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "AE",
+        "storeCode": "ROW",
+        "name": "United Arab Emirates",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/ae.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "GB",
+        "storeCode": "COM",
+        "name": "United Kingdom",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/gb.png",
+        "url": "www.asos.com",
+        "siteId": 1,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "US",
+        "storeCode": "US",
+        "name": "United States",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/us.png",
+        "url": "www.asos.com/us",
+        "siteId": 2,
+        "defaultLanguage": "en-US"
+    },
+    {
+        "countryCode": "UY",
+        "storeCode": "ROW",
+        "name": "Uruguay",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/uy.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "VG",
+        "storeCode": "ROW",
+        "name": "Virgin Islands, British",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/vg.png",
+        "url": "www.asos.com",
+        "siteId": 24,
+        "defaultLanguage": "en-GB"
+    },
+    {
+        "countryCode": "VI",
+        "storeCode": "US",
+        "name": "Virgin Islands, U.S.",
+        "imageUrl": "https://assets.asosservices.com/storesa/images/flags/vi.png",
+        "url": "www.asos.com/us",
+        "siteId": 2,
+        "defaultLanguage": "en-US"
+    }
+]
